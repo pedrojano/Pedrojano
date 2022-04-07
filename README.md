@@ -1,7 +1,7 @@
-### Oi lá 👋
+### Olá! 👋
 ## Bem-vindo(a) ao perfil do Pedro Henrique 😁
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando 
+- 🔭 Desenvolvedor front-end
+
 
 <div align="center">
   <a href="https://github.com/Pedrinho022">
