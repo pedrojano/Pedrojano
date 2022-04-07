@@ -1,4 +1,3 @@
-### Olá! 👋
 ## Bem-vindo(a) ao perfil do Pedro Henrique 😁
 - 🔭 Desenvolvedor front-end
 
