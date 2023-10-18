@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Pedro Henrique 😁
-- 🔭 Desenvolvedor front-end
+## Bem-vindo(a) ao meu perfil! 😁
+- 💻 Desenvolvedor front-end
 
 
 <div align="center">
