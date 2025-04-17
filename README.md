@@ -1,4 +1,4 @@
-👋 Olá, eu sou [Pedro Jano]()!  
+👋 Olá, eu sou Pedro Henrique Janó!  
 
 **Desenvolvedor Front-End** apaixonado por criar interfaces modernas, responsivas e acessíveis.  
 
