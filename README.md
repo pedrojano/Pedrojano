@@ -1,34 +1,44 @@
-## Bem-vindo(a) ao meu perfil! 😁
-- 💻 Desenvolvedor front-end
+👋 Olá, eu sou [Pedro Jano]()!  
 
+**Desenvolvedor Front-End** apaixonado por criar interfaces modernas, responsivas e acessíveis.  
 
 <div align="center">
-  <a href="https://github.com/Pedrojano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrojano&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojano&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
- <div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedrojano&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojano&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
- 
- ##
- 
- <div>
-  
- <a href="https://instagram.com/pedro_henrique_22_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:pedrino022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-c-72a86911a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-   
-  </div>
-  
- 
-  
 
+## 🛠 **Tecnologias e Ferramentas**  
+
+<div style="display: inline_block" align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+## 🌟 **Projetos em Destaque**  
+
+🔹 **[Portfólio Moderno](link-repo)** - Portfólio interativo com dark mode e animações CSS.   
+
+## 📚 **Aprendendo Atualmente**  
+
+-  React 
+-  TypeScript 
  
+## 📫 **Vamos Conversar!**  
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-c-72a86911a)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_henrique_22_/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrino022@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pedrojano)
+  
+</div>
+
