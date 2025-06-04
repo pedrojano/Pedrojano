@@ -23,7 +23,7 @@
 
 ## 🌟 **Projetos em Destaque**  
 
-🔹 **[Portfólio Moderno](link-repo)** - Portfólio interativo com dark mode e animações CSS.   
+🔹 **[Portfólio Moderno](https://pedrojano.github.io/)** - Portfólio interativo com dark mode e animações CSS.   
 
 ## 📚 **Aprendendo Atualmente**  
 
