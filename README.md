@@ -3,7 +3,6 @@
 **Desenvolvedor Front-End** apaixonado por criar interfaces modernas, responsivas e acessíveis.  
 
 <div align="center">
-  
   ![Pedro Henrique Janó](https://github-readme-stats.vercel.app/api?username=Pedrojano&custom_title=Pedro%20Henrique%20Janó&show_icons=true&theme=radical&hide_border=true&title_color=58A6FF&icon_color=1F6FEB)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojano&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
@@ -26,9 +25,8 @@
 
 ## 📚 **Aprendendo Atualmente**  
 
--  React 
--  TypeScript 
- 
+-  React
+-  
 ## 📫 **Vamos Conversar!**  
 
 <div align="center">
